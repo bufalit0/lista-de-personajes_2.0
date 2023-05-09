@@ -1,0 +1,9 @@
+body{
+    background-image:url("si.jpeg");
+}
+#ver_personaje_con_comas{
+    background-color: rgb(155, 40, 40);
+}
+#ver_nombres_sin_comas {
+background-color: tomato;
+}
